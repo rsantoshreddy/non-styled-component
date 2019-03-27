@@ -25311,7 +25311,7 @@ function (_Component) {
     value: function render() {
       return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", null, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("button", {
         className: "button"
-      }, "Styled Component!"));
+      }, "Non Styled Component!"));
     }
   }]);
 
