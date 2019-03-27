@@ -10,7 +10,7 @@
 | :-------------: |:-------------:| :-------------:|
 | Code size      | ![nonStyleComponentBuild] | ![styleComponentBuild] |
 | Performance      | ![nonStyleComponentPerf] | ![styleComponentPerf] |
-| Non realistic code | ![nonStyleComponentCode]| ![nonStyleComponentCode] |
+| Non realistic code | ![nonStyleComponentCode]| ![styleComponentCode] |
 
 [nonStyleComponentBuild]: https://github.com/rsantoshreddy/non-styled-component/blob/master/src/images/build.png "nonStyleComponentBuild image"
 
